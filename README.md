@@ -15,12 +15,6 @@ I'm a final year student specializing in Artificial Intelligence and Machine Lea
 - **Frameworks/Libraries:** TensorFlow, PyTorch, React
 - **Others:** Data Analysis, Deep Learning, Machine Learning
 
-## 🎓 Certifications & Courses
-
-- [Introduction to Cybersecurity (Cisco)](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
-- [TensorFlow Deep Learning (by @mrdbourke)](https://github.com/mrdbourke/tensorflow-deep-learning)
-- [PyTorch Deep Learning (by @mrdbourke)](https://github.com/mrdbourke/pytorch-deep-learning)
-- [AI For Beginners (Microsoft)](https://github.com/microsoft/AI-For-Beginners)
 
 ## 🚧 Projects
 
